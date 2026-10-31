@@ -39,9 +39,6 @@ export default function Login() {
           />
         </label>
         <button type="submit">Log in</button>
-        <p className="hint">
-          Seed users: asha / ben / chen / dina / elan @taskflow.dev — password "password123"
-        </p>
         <p>
           No account? <Link to="/register">Register</Link>
         </p>
